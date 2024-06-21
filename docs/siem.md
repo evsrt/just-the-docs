@@ -4,7 +4,7 @@ title: siem
 parent: kb
 has_toc: true
 ---
-<details open markdown="block">
+<details close markdown="block">
   <summary>
     Содержание
   </summary>
