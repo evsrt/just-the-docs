@@ -15,11 +15,6 @@ back_to_top: true
 back_to_top_text: "Наверх"
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
       
 footer_content: "<script type="text/javascript"> document.write(new Date().getFullYear());"
 
