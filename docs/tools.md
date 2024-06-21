@@ -4,10 +4,11 @@ title: tools
 parent: kb
 has_toc: true
 ---
-<details open markdown="block">
+<details close markdown="block">
   <summary>
     Содержание
   </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
 </details>
