@@ -13,3 +13,6 @@ heading_anchors: true
 # Back to top link
 back_to_top: true
 back_to_top_text: "Наверх"
+
+ga_tracking: G-9GZVNLD5V1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
