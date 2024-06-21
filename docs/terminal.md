@@ -2,8 +2,8 @@
 layout: default
 title: terminal
 parent: kb
+has_toc: true
 ---
-{:toc}
 # netstat
 ```
     -a: Показывает все активные подключения и прослушивающие порты.
