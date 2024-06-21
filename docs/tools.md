@@ -8,7 +8,6 @@ has_toc: true
   <summary>
     Содержание
   </summary>
-  {: .text-delta }
 1. TOC
 {:toc}
 </details>
