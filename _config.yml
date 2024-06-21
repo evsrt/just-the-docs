@@ -13,7 +13,3 @@ heading_anchors: true
 # Back to top link
 back_to_top: true
 back_to_top_text: "Наверх"
-
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-      
-footer_content: "<script type="text/javascript"> document.write(new Date().getFullYear());"
