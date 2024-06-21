@@ -6,7 +6,7 @@ has_toc: true
 ---
 <details open markdown="block">
   <summary>
-    Table of contents
+    Содержание
   </summary>
   {: .text-delta }
 1. TOC
