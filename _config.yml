@@ -9,6 +9,25 @@ color_scheme: light
 search_enabled: true
 nav_enabled: true
 heading_anchors: true
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Наверх"
+
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+      
+footer_content: "<script type="text/javascript"> document.write(new Date().getFullYear());"
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
