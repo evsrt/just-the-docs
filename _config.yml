@@ -17,11 +17,3 @@ back_to_top_text: "Наверх"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
       
 footer_content: "<script type="text/javascript"> document.write(new Date().getFullYear());"
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
