@@ -38,7 +38,6 @@ sudo lsof -iTCP -sTCP:LISTEN -n -P
 
  - Вывод:
 ```bash
-
 COMMAND      PID   USER   FD   TYPE    DEVICE SIZE/OFF NODE NAME
 sshd         964   root    3u  IPv4     25055      0t0  TCP *:22 (LISTEN)
 sshd         964   root    4u  IPv6     25057      0t0  TCP *:22 (LISTEN)
