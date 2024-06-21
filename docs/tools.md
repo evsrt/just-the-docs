@@ -4,7 +4,7 @@ title: tools
 parent: kb
 has_toc: true
 ---
-# Ссылки на онлайн инструменты
+Ссылки на онлайн инструменты
 <details close markdown="block">
   <summary>
     Содержание
