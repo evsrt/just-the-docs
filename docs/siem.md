@@ -1,6 +1,6 @@
 ---
 layout: default
-title: terminal
+title: siem
 parent: kb
 has_toc: true
 ---
