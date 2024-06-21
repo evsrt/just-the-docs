@@ -102,7 +102,7 @@ Open Threat Exchange <OTX> от AlienVault - платформа для обме�
 
 <https://opentip.kaspersky.com/>
 
-# VulDB <Vulnerability Database>
+# VulDB Vulnerability Database
 База данных уязвимостей, предоставляющая информацию о уязвимостях в различных программах и устройствах.
 
 <https://vuldb.com/ru/>
@@ -112,7 +112,7 @@ Open Threat Exchange <OTX> от AlienVault - платформа для обме�
 
 <https://vulners.com/search>
 
-# Microsoft Security Response Center <MSRC>
+# Microsoft Security Response Center MSRC
 Официальный ресурс Microsoft для информации о безопасности и обработки уязвимостей.
 
 <https://www.microsoft.com/en-us/msrc>
@@ -157,7 +157,7 @@ Open Threat Exchange <OTX> от AlienVault - платформа для обме�
 
 <https://crt.sh/>
 
-# ANY.RUN - 
+# ANY.RUN
 Интерактивная онлайн-защита от вредоносных программ. Облачный сервис анализа вредоносных программ. Поднимите свою информационную безопасность на новый уровень. Анализируйте подозрительные и вредоносные действия с помощью наших инновационных инструментов.
 
 Interactive Online Malware Sandbox. Cloud-based malware analysis service. Take your information security to the next level. Analyze suspicious and malicious activities using our innovative tools.
