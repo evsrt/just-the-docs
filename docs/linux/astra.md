@@ -4,6 +4,7 @@ title: astra linux
 has_children: false
 permalink: /docs/kb/linux/astra
 has_toc: true
+parent: linux
 ---
 <details close markdown="block">
   <summary>
