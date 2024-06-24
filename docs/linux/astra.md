@@ -3,7 +3,7 @@ layout: default
 title: astra linux
 has_children: false
 permalink: /docs/kb/linux  
-parent: kb/linux
+parent: linux
 has_toc: true
 ---
 <details close markdown="block">
