@@ -2,7 +2,7 @@
 layout: default
 title: astra linux
 has_children: false
-permalink: /docs/kb/linux
+permalink: /docs/kb/linux/astra
 has_toc: true
 ---
 <details close markdown="block">
