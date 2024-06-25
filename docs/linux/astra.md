@@ -25,3 +25,8 @@ has_toc: true
 Управление блокировкой
 
 <https://wiki.astralinux.ru/pages/viewpage.action?pageId=109020865>
+
+# Изменение МКЦ для пользователя
+```bash
+sudo pdpl-user -i 63 username
+```
