@@ -30,3 +30,7 @@ has_toc: true
 ```bash
 sudo pdpl-user -i 63 username
 ```
+# Проверить функционирование МКЦ на файловой системе
+```bash
+sudo set-fs-ilev -v
+```
