@@ -84,3 +84,9 @@ dig +short myip.opendns.com @resolver1.opendns.com
 dig +short myip.opendns.com @resolver1.opendns.com
 77.77.7.7
 ```
+# find
+## Изменение мандатной метки для всех найдненных директорий в профиле пользователя
+<https://wiki.astralinux.ru/pages/viewpage.action?pageId=48763550>
+```bash
+find /home/username -type d -exec pdpl-file :63:0x0:relax {} \;
+```
