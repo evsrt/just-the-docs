@@ -129,7 +129,7 @@ parent: kb
 | 121 | 0x79 | 171  | 0111 1001           | y    | Lowercase y             |
 | 122 | 0x7A | 172  | 0111 1010           | z    | Lowercase z             |
 | 123 | 0x7B | 173  | 0111 1011           | {    | Left curly brace        |
-| 124 | 0x7C | 174  | 0111 1100           | |    | Vertical bar            |
+| 124 | 0x7C | 174  | 0111 1100           | \|    | Vertical bar            |
 | 125 | 0x7D | 175  | 0111 1101           | }    | Right curly brace       |
 | 126 | 0x7E | 176  | 0111 1110           | ~    | Tilde                   |
 | 127 | 0x7F | 177  | 0111 1111           | DEL  | Delete                  |
