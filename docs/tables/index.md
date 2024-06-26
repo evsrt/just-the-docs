@@ -3,7 +3,6 @@ layout: default
 title: tables
 has_children: true
 permalink: /docs/kb/tables
-has_toc: true
 parent: kb
 ---
 <details close markdown="block">
