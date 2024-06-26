@@ -17,6 +17,12 @@ has_toc: true
 {:toc}
 </details>
 
+# auditd
+## Chapitre 12. Auditing the system
+<https://docs.redhat.com/fr/documentation/red_hat_enterprise_linux/9/html/security_hardening/auditing-the-system_security-hardening>
+## Linux audit userspace repository
+<https://github.com/linux-audit/audit-userspace>
+
 # /etc/skel
 
 :robot:
