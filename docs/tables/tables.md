@@ -1,7 +1,6 @@
 ---
 layout: default
 title: tables
-has_children: true
 permalink: /docs/kb/tables
 parent: kb
 ---
