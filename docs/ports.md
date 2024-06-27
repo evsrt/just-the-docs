@@ -1,6 +1,6 @@
 ---
 layout: default
-title: porta
+title: ports
 permalink: /docs/kb
 parent: kb
 ---
