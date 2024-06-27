@@ -80,5 +80,5 @@ Root Cause Analysis (RCA) — это методика, используемая 
 
 Root Cause Analysis является важным инструментом для улучшения процессов и повышения качества работы в различных сферах. Применение методов RCA позволяет глубже понять проблему и принять меры для предотвращения ее повторения, что способствует более эффективной и устойчивой работе организации.
 
-[^1]: https://miro.com/templates/5-whys/
-[^2]: https://miro.com/ru/diagramming/what-is-a-fishbone-diagram/
+[^1]: <https://miro.com/templates/5-whys/>
+[^2]: <https://miro.com/ru/diagramming/what-is-a-fishbone-diagram/>
