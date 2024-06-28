@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ports
-permalink: /docs/kb
 parent: kb
 ---
 <details close markdown="block">
