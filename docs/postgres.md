@@ -381,9 +381,7 @@ ALTER ROLE superuser_role NOSUPERUSER;
 
 58. **Создание уникального индекса:**
     ```sql
-    CREATE
-
- UNIQUE INDEX unique_idx_name ON table_name (column_name);
+    CREATE UNIQUE INDEX unique_idx_name ON table_name (column_name);
     ```
 
 ### Управление представлениями
@@ -640,8 +638,8 @@ ALTER ROLE superuser_role NOSUPERUSER;
     ```
 
 100. **Удаление временных файлов:**
-    ```sql
-    SELECT pg_catalog.pg_stat_file('base/pgsql_tmp', 'm');
-    ```
-
+```sql
+SELECT pg_catalog.pg_stat_file('base/pgsql_tmp', 'm');
+```
+    
 Этот список включает наиболее часто используемые команды и действия для управления безопасностью и администрирования PostgreSQL. Он охватывает основные аспекты управления пользователями, ролями, правами доступа, а также настройки безопасности и производительности.
