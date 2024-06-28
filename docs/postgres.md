@@ -521,6 +521,7 @@ ALTER ROLE superuser_role NOSUPERUSER;
     ```sql
     VACUUM ANALYZE table_name;
     ```
+    VACUUM ANALYZE выполняет очистку (VACUUM), а затем анализ (ANALYZE) всех указанных таблиц. Это удобная комбинация для регулярного обслуживания БД.
 
 82. **Анализ всех таблиц в базе данных:**
     ```sql
